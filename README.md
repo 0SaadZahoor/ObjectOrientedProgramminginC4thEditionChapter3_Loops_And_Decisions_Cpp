@@ -10,5 +10,9 @@ repository name: whileLoop
 short description: Contains 1 program file, demonstrates  demonstrates WHILE loop
 repository name: whileLoopMultipleStatements
 short description: Contains 1 program file, prints numbers raised to fourth power
+repository name: doWhileLoop
+short description: Contains 1 program file, demonstrates DO loop
+repository name: fibonacciSeriesOperatorPecedence
+short description: Contains 1 program file, demonstrates WHILE loops using fibonacci series
 repository name: 
 short description: 
