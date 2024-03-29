@@ -14,5 +14,15 @@ repository name: doWhileLoop
 short description: Contains 1 program file, demonstrates DO loop
 repository name: fibonacciSeriesOperatorPecedence
 short description: Contains 1 program file, demonstrates WHILE loops using fibonacci series
-repository name: 
-short description: 
+repository name: characterCount
+short description: Contains 1 program file, counts characters and words typed in
+repository name: forLoopVariations
+short description: Contains 1 program file, calculates factorials, demonstrates FOR loop
+repository name: if2_multiple_statements
+short description: Contains 1 program file, demonstrates IF statement with multiline body
+repository name: ifdemo
+short description: Contains 1 program file, demonstrates IF statement
+repository name: ifelsedemo
+short description: Contains 1 program file, demonstrates IF..ELSE statement
+repository name: prime_numbers
+short description: Contains 1 program file, demonstrates IF statement with prime numbers
