@@ -1,28 +1,32 @@
 This repository contains the programs in the book ObjectOrientedProgramminginC4thEdition and Chapter 3 Loops and Decisions programs are present in it
-This repository contains 5 repositories with their names and short description of programs written below their name,
-repository name: forLoopMultipleStatements
+This repository contains 5 directories with their names and short description of programs written below their name,
+directory name: forLoopMultipleStatements
 short description: Contains 1 program file, lists cubes from 1 to 10
-repository name: forLoopUse
+directory name: forLoopUse
 short description: Contains 1 program file, demonstrates simple FOR loop
-repository name: relationalOperators
+directory name: relationalOperators
 short description: Contains 1 program file, demonstrates  relational operators
-repository name: whileLoop
+directory name: whileLoop
 short description: Contains 1 program file, demonstrates  demonstrates WHILE loop
-repository name: whileLoopMultipleStatements
+directory name: whileLoopMultipleStatements
 short description: Contains 1 program file, prints numbers raised to fourth power
-repository name: doWhileLoop
+directory name: doWhileLoop
 short description: Contains 1 program file, demonstrates DO loop
-repository name: fibonacciSeriesOperatorPecedence
+directory name: fibonacciSeriesOperatorPecedence
 short description: Contains 1 program file, demonstrates WHILE loops using fibonacci series
-repository name: characterCount
+directory name: characterCount
 short description: Contains 1 program file, counts characters and words typed in
-repository name: forLoopVariations
+directory name: characterCount2_Word_And_Character
+short description: counts the characters and words typed in but accurately differentiate among characters & words
+directory name: forLoopVariations
 short description: Contains 1 program file, calculates factorials, demonstrates FOR loop
-repository name: if2_multiple_statements
+directory name: if2_multiple_statements
 short description: Contains 1 program file, demonstrates IF statement with multiline body
-repository name: ifdemo
+directory name: ifdemo
 short description: Contains 1 program file, demonstrates IF statement
-repository name: ifelsedemo
+directory name: ifelsedemo
 short description: Contains 1 program file, demonstrates IF..ELSE statement
-repository name: prime_numbers
+directory name: platters.cpp
+short description: Contains 1 program file, demonstrates SWITCH statement with an integer number
+directory name: prime_numbers
 short description: Contains 1 program file, demonstrates IF statement with prime numbers
